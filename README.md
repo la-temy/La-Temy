@@ -81,7 +81,6 @@ I continue to strengthen my technical and professional capabilities through prac
 
 Current areas of development include:
 
-- CISA – Certified Information Systems Auditor.
 - AI Governance and Risk Management.
 
 ## 🤝 Professional Interests
