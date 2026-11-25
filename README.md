@@ -1,181 +1,103 @@
-# 👋 Hello, I'm a GRC & IT Governance Professional
+# Hi, I'm a GRC | Cybersecurity Risk | IT Audit Professional 👋
 
-### Governance, Risk & Compliance | IT Audit & Assurance | Third-Party Risk Management | Data Governance
+Welcome to my GitHub!
 
-## 👨‍💻 About Me
+I am a Governance, Risk and Compliance (GRC) and Cybersecurity professional with practical experience and project-based exposure across information security governance, IT risk management, compliance, IT audit and data governance.
 
-I am a Governance, Risk and Compliance (GRC) professional with a strong interest in helping organisations establish effective governance structures, manage technology and operational risks, strengthen internal controls, and achieve regulatory compliance.
+I have developed practical experience in assessing organisational risks, interpreting regulatory and security framework requirements, evaluating internal controls, identifying control gaps and developing recommendations to strengthen security and compliance.
 
-My professional focus encompasses four interconnected disciplines:
+My approach combines risk-based thinking, analytical skills and an understanding of business operations to translate technical security requirements into practical controls, actionable remediation plans and meaningful management reporting.
 
-- **Governance, Risk & Compliance (GRC):** Developing governance frameworks, policies, risk management programmes, control environments and compliance assessments.
-- **IT Audit & Assurance:** Evaluating IT controls, assessing control effectiveness, conducting audit testing, documenting findings and monitoring remediation.
-- **Third-Party Risk Management (TPRM):** Assessing vendor risks, conducting due diligence, evaluating supplier security controls and monitoring third-party compliance.
-- **Data Governance:** Establishing data ownership, accountability, data quality standards, metadata management, data policies and data governance operating models.
+I am particularly interested in helping organisations improve their security posture, strengthen governance arrangements, protect information assets and build sustainable risk management practices.
 
-I am particularly interested in translating regulatory requirements, industry standards and governance principles into practical business solutions.
+---
 
-My GitHub portfolio documents practical projects, assessments, frameworks, policies, risk registers, control matrices, audit workpapers, analytical models and governance deliverables.
+## 🎯 Core Competencies
 
-## 🎯 Core Professional Focus
+- Governance, Risk and Compliance (GRC)
+- Information Security Risk Assessment
+- Third-Party Risk Management (TPRM)
+- Vulnerability and Incident Risk Management
+- Privacy and Regulatory Compliance
+- Business Continuity and Disaster Recovery
 
-| Discipline | Areas of Expertise |
+## 🛠️ Technical Skills & Tools
+
+| Area | Tools and Technologies |
 |---|---|
-| GRC | Governance frameworks, policies, risk registers, compliance monitoring |
-| IT Risk Management | Risk identification, assessment, treatment and monitoring |
-| IT Audit & Assurance | ITGC, ITAC, control testing, audit workpapers and findings |
-| Third-Party Risk Management | Vendor due diligence, risk tiering, assessments and monitoring |
-| Data Governance | Data ownership, stewardship, metadata, data quality and policies |
-| Regulatory Compliance | GDPR, UK DPA 2018, PCI DSS, DORA and SOC 2 |
-| IT Controls | Access management, change management, operations and security controls |
-| Business Resilience | Business continuity, disaster recovery and resilience testing |
+| Data Analytics | Excel, Power Query, Power BI |
+| Reporting | Power BI Dashboards, KPI/KRI Reporting |
+| Risk Management | Risk Registers, Risk Matrices, Risk Treatment Plans |
+| Cybersecurity | Vulnerability Management, Incident Response, Security Monitoring |
+| Governance | Policies, Procedures, RACI Matrices, Control Frameworks |
 
-## 🛡️ Frameworks, Standards & Regulations
+## 📚 Frameworks, Standards & Regulatory Requirements
 
-### Governance, Risk & Cybersecurity
-- COBIT 2019
+**Information Security and Cybersecurity**
 - ISO/IEC 27001:2022
 - ISO/IEC 27002
-- ISO 31000
 - NIST Cybersecurity Framework 2.0
-- NIST SP 800-30
 - NIST SP 800-53
-- NIST SP 800-161
+- NIST SP 800-30
+- NIST SP 800-37
+- NIST SP 800-61
 
-### IT Audit & Assurance
-- ISACA IT Audit Standards
-- ISACA COBIT Framework
-- COSO Internal Control Framework
-- SOC 1 / SOC 2
-- SOX IT Controls
+**IT Governance and Risk Management**
+- COBIT 2019
+- ISO 31000
+
+**Privacy, Compliance and Assurance**
+- UK GDPR
+- Data Protection Act 2018
 - PCI DSS
+- HIPAA
 
-### Third-Party Risk Management
-- NIST SP 800-161
-- ISO/IEC 27036
-- SIG CORE / SIG LITE
-- CSA CAIQ
-- ISO 27001 Supplier Relationships Controls
+## 💻 Practical Projects & Portfolio
 
-### Data Governance & Privacy
-- DAMA-DMBOK
-- GDPR
-- UK Data Protection Act 2018
-- ISO/IEC 38505
-- ISO/IEC 42001
-- Data Quality Management
-- Metadata Management
+My GitHub repositories demonstrate how I apply GRC, cybersecurity and data management concepts to realistic business scenarios.
 
-## 💻 Technical Skills & Tools
-
-### Data Analytics & Reporting
-- Microsoft Excel
-- Power Query
-- Power BI
-- SQL
-- Python
-
-### GRC, Audit & ITSM
-- ServiceNow
-- Jira
-- Risk and Control Matrices
-- Audit Workpapers
-- Compliance Assessment Workbooks
-
-### Data Management
-- PostgreSQL
-- Data Quality Assessment
-- Data Profiling
-- Metadata Management
-- Business Glossaries
-
-### Cloud & Cybersecurity
-- Microsoft Azure
-- AWS
-- Vulnerability Management
-- Security Monitoring
-- Identity and Access Management
-
-## 🚀 Practical Portfolio Projects
-
-### 01. GRC & IT Risk Management
-- Enterprise Risk Management Framework
-- IT Risk Assessment and Treatment Plan
-- Risk Register and Risk Matrix
-- Risk Appetite and Tolerance Framework
-- Policies, Standards and Procedures
-- Key Risk Indicators (KRIs)
-- GRC Dashboard and Reporting
-
-### 02. IT Audit & Assurance
-- IT Audit Planning and Risk Assessment
-- IT General Controls (ITGC) Assessment
-- IT Application Controls (ITAC) Testing
-- User Access Review
-- Change Management Audit
-- IT Operations Audit
-- Audit Evidence and Workpaper Documentation
-- Audit Findings and Remediation Tracker
-
-### 03. Third-Party Risk Management
-- Third-Party Risk Management Framework
-- Vendor Inventory and Classification
-- Vendor Risk Tiering Model
-- Vendor Due Diligence Checklist
-- SIG CORE / SIG LITE Assessment
-- CAIQ Security Assessment
-- Inherent and Residual Risk Assessment
-- Vendor Security Scorecard
-- Third-Party Risk Register
-- Vendor Remediation and Monitoring Tracker
-
-### 04. Data Governance & Management
-- Enterprise Data Governance Framework
-- Data Governance Charter
-- Data Ownership and Stewardship Matrix
-- Data Governance Operating Model
-- Data Quality Framework
-- Data Quality Scorecards
-- Business Glossary and Metadata Catalogue
-- Data Classification and Retention Policy
-- Data Governance Maturity Assessment
-- Data Governance Roadmap
-
-## 📂 Featured Repositories
-
-| Repository | Description |
+| Project | Practical Activities and Deliverables |
 |---|---|
-| grc-portfolio | End-to-end GRC frameworks and deliverables |
-| it-risk-management | Risk assessments and treatment plans |
-| it-audit-assurance | IT audit programmes and control testing |
-| third-party-risk-management | Vendor risk assessments and monitoring |
-| data-governance | Data governance frameworks and artefacts |
-| iso-27001-implementation | ISMS implementation and compliance |
-| nist-csf-2-implementation | Cybersecurity gap assessment |
-| it-asset-management | ITAM, HAM, SAM and CMDB |
-| business-continuity | Business continuity and disaster recovery |
+| GRC Implementation | Risk assessments, governance structures, policies, control matrices and remediation plans |
+| ISO 27001 ISMS | Scope definition, risk assessment, Statement of Applicability, control mapping and gap assessment |
+| NIST CSF 2.0 Assessment | Current-state assessment, target-state profile, control gaps, maturity analysis and improvement roadmap |
+| Cybersecurity Analytics | Risk dashboards, KPI/KRI reporting, data analysis and security performance monitoring |
 
-## 📈 Continuous Professional Development
+## 📊 Data Analytics & Risk Reporting
 
-I continuously develop my knowledge and practical capabilities in:
+I use data analysis to support risk-based decision-making, improve reporting and provide greater visibility into organisational performance.
 
-- GRC Framework Development and Implementation
-- IT Risk Management and Assurance
-- IT Audit Methodology and Control Testing
-- Third-Party and Supply Chain Risk
-- Enterprise Data Governance
-- Data Protection and Privacy
-- Cloud Governance and Security
-- AI Governance and Responsible AI
+My practical interests include:
 
-## 🤝 Let's Connect
+- Analysing and transforming data using Excel and Power Query.
+- Writing SQL queries to retrieve and analyse structured data.
+- Developing Power BI dashboards for risk and compliance reporting.
+- Tracking risk indicators, control performance and remediation progress.
+- Performing data quality assessments and identifying anomalies.
 
-I welcome opportunities to connect with professionals working across Governance, Risk, Compliance, IT Audit, Third-Party Risk Management and Data Governance.
+## 🚀 Professional Development
 
-I am particularly interested in knowledge sharing, practical projects, professional collaboration and opportunities to contribute to effective governance and risk management programmes.
+I continue to strengthen my technical and professional capabilities through practical projects, structured learning and certification preparation.
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL
-- 🐙 GitHub: Explore my repositories
+Current areas of development include:
 
-**Governance | Assurance | Accountability | Trust**
+- CISA – Certified Information Systems Auditor.
+- AI Governance and Risk Management.
+
+## 🤝 Professional Interests
+
+I welcome opportunities to collaborate with professionals and organisations working in:
+
+- Governance, Risk and Compliance.
+- Cybersecurity and Information Security.
+- IT Audit, IT Risk and Assurance.
+- Technology Risk Management.
+- Third-Party Risk Management.
+- Data Governance and Data Management.
+
+
+---
+
+My professional focus is on turning security and regulatory requirements into practical controls, identifying and communicating business risks, and supporting organisations in building effective, measurable governance and compliance programmes.
+
+*Assessing risks. Strengthening controls. Improving governance. Supporting business resilience.*
