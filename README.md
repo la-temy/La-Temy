@@ -70,7 +70,6 @@ I use data analysis to support risk-based decision-making, improve reporting and
 My practical interests include:
 
 - Analysing and transforming data using Excel and Power Query.
-- Writing SQL queries to retrieve and analyse structured data.
 - Developing Power BI dashboards for risk and compliance reporting.
 - Tracking risk indicators, control performance and remediation progress.
 - Performing data quality assessments and identifying anomalies.
